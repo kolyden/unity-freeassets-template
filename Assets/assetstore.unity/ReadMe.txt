@@ -9,3 +9,4 @@ FantasyCharactersGoblinArcherFree - https://assetstore.unity.com/packages/3d/cha
 fantasySpider - https://assetstore.unity.com/packages/3d/characters/creatures/free-fantasy-spider-10104
 KBH Toon Skeleton - https://assetstore.unity.com/packages/3d/characters/kbh-toon-skeleton-36700
 Flamer - https://assetstore.unity.com/packages/3d/characters/flamer-79873
+Earth_Mage - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/earth-mage-57637
