@@ -1,6 +1,5 @@
-Characters:
-
 amusedART - https://assetstore.unity.com/packages/3d/characters/stone-monster-101433
+Creature_Monsters_X - https://assetstore.unity.com/packages/3d/characters/creatures/character-monsters-x-89243
 Creatures Titan - https://assetstore.unity.com/packages/3d/characters/creatures/creature-titan-79302
 Earth_Mage - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/earth-mage-57637
 EgyptMonsters - https://assetstore.unity.com/packages/3d/characters/animals/insects/egypt-pack-spider-demo-165807
