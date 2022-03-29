@@ -15,7 +15,9 @@ FourEvilDragonsPBR - https://assetstore.unity.com/packages/3d/characters/creatur
 GhoulZombie - https://assetstore.unity.com/packages/3d/characters/ghoul-zombie-114531
 GolemMonster - https://assetstore.unity.com/packages/3d/characters/creatures/golemmonster-33260
 KBH Toon Skeleton - https://assetstore.unity.com/packages/3d/characters/kbh-toon-skeleton-36700
+Mini Legion Rock Golem PBR HP Polyart - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-rock-golem-pbr-hp-polyart-94707
 PBRVelociraptor - https://assetstore.unity.com/packages/3d/characters/animals/free-pbr-velociraptors-165201
+SciFiWarriorPBRHPPolyart - https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154
 Simple SciFi Gun Turret Set - https://assetstore.unity.com/packages/3d/characters/scifi-simple-gun-turret-set-62750
 SimpleSkeletonFree - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/rpg-skeleton-35463
 Skeleton - Low Poly - https://assetstore.unity.com/packages/3d/characters/humanoids/skeleton-low-poly-202176
