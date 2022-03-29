@@ -1,5 +1,6 @@
 amusedART - https://assetstore.unity.com/packages/3d/characters/stone-monster-101433
 Animated low poly spider - https://assetstore.unity.com/packages/3d/characters/animals/insects/animated-low-poly-spider-125114
+Barbarian - https://assetstore.unity.com/packages/3d/characters/humanoids/barbarian-warrior-75519
 Creature_Monsters_X - https://assetstore.unity.com/packages/3d/characters/creatures/character-monsters-x-89243
 Creatures Titan - https://assetstore.unity.com/packages/3d/characters/creatures/creature-titan-79302
 Devil_Bulldog_Lite - https://assetstore.unity.com/packages/3d/characters/creatures/stylized-devil-bulldog-lite-version-192198
