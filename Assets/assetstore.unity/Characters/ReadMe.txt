@@ -12,6 +12,7 @@ FantasyMonstersZolrik - https://assetstore.unity.com/packages/3d/characters/huma
 fantasySpider - https://assetstore.unity.com/packages/3d/characters/creatures/free-fantasy-spider-10104
 Flamer - https://assetstore.unity.com/packages/3d/characters/flamer-79873
 FourEvilDragonsPBR - https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-pbr-78923
+GhoulZombie - https://assetstore.unity.com/packages/3d/characters/ghoul-zombie-114531
 GolemMonster - https://assetstore.unity.com/packages/3d/characters/creatures/golemmonster-33260
 KBH Toon Skeleton - https://assetstore.unity.com/packages/3d/characters/kbh-toon-skeleton-36700
 PBRVelociraptor - https://assetstore.unity.com/packages/3d/characters/animals/free-pbr-velociraptors-165201
