@@ -4,6 +4,7 @@ Creature_Monsters_X - https://assetstore.unity.com/packages/3d/characters/creatu
 Creatures Titan - https://assetstore.unity.com/packages/3d/characters/creatures/creature-titan-79302
 Earth_Mage - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/earth-mage-57637
 EgyptMonsters - https://assetstore.unity.com/packages/3d/characters/animals/insects/egypt-pack-spider-demo-165807
+Fantasy Monster(wizard) Demo - https://assetstore.unity.com/packages/3d/characters/creatures/fantasy-monster-wizard-demo-103037
 FantasyCharactersDwarf-Free - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/fantasy-haracter-dwarf-free-strategy-rpg-mobile-games-142323
 FantasyCharactersGoblinArcherFree - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/fantasy-monsters-zolrik-zolrikmercenary-strategy-rpg-124327
 FantasyMonstersZolrik - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/fantasy-monsters-zolrik-zolrikmercenary-strategy-rpg-124327
