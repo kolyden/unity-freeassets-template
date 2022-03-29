@@ -22,6 +22,7 @@ LowPoly Fantasy Monsters Pack - https://assetstore.unity.com/packages/3d/charact
 Mech - https://assetstore.unity.com/packages/3d/characters/robots/the-assault-mech-90395
 Mini Legion Rock Golem PBR HP Polyart - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-rock-golem-pbr-hp-polyart-94707
 PBRVelociraptor - https://assetstore.unity.com/packages/3d/characters/animals/free-pbr-velociraptors-165201
+Polygonal Metalon - https://assetstore.unity.com/packages/3d/characters/creatures/meshtint-free-polygonal-metalon-151383
 SciFiWarriorPBRHPPolyart - https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154
 Simple SciFi Gun Turret Set - https://assetstore.unity.com/packages/3d/characters/scifi-simple-gun-turret-set-62750
 SimpleSkeletonFree - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/rpg-skeleton-35463
