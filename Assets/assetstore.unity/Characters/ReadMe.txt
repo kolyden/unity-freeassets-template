@@ -2,6 +2,7 @@ amusedART - https://assetstore.unity.com/packages/3d/characters/stone-monster-10
 Animated low poly spider - https://assetstore.unity.com/packages/3d/characters/animals/insects/animated-low-poly-spider-125114
 Creature_Monsters_X - https://assetstore.unity.com/packages/3d/characters/creatures/character-monsters-x-89243
 Creatures Titan - https://assetstore.unity.com/packages/3d/characters/creatures/creature-titan-79302
+Devil_Bulldog_Lite - https://assetstore.unity.com/packages/3d/characters/creatures/stylized-devil-bulldog-lite-version-192198
 Earth_Mage - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/earth-mage-57637
 EgyptMonsters - https://assetstore.unity.com/packages/3d/characters/animals/insects/egypt-pack-spider-demo-165807
 Fantasy Monster(wizard) Demo - https://assetstore.unity.com/packages/3d/characters/creatures/fantasy-monster-wizard-demo-103037
