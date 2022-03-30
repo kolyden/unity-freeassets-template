@@ -28,6 +28,7 @@ SciFiWarriorPBRHPPolyart - https://assetstore.unity.com/packages/3d/characters/r
 Simple SciFi Gun Turret Set - https://assetstore.unity.com/packages/3d/characters/scifi-simple-gun-turret-set-62750
 SimpleSkeletonFree - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/rpg-skeleton-35463
 Skeleton - Low Poly - https://assetstore.unity.com/packages/3d/characters/humanoids/skeleton-low-poly-202176
+Skeletons_demo - https://assetstore.unity.com/packages/3d/characters/creatures/dungeon-skeletons-demo-71087
 Spiders - https://assetstore.unity.com/packages/3d/characters/animals/insects/animated-spiders-pack-9864
 True_Horror_Creatures - https://assetstore.unity.com/packages/3d/characters/creatures/fantastic-creature-1-103074
 unded_Demo - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-undead-demo-95640
