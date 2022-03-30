@@ -9,6 +9,8 @@ Granite Rocks - https://assetstore.unity.com/packages/3d/environments/landscapes
 Hand-Painted Fountain - https://assetstore.unity.com/packages/3d/environments/fantasy/hand-painted-fountain-41694
 meadow_assets - https://assetstore.unity.com/packages/3d/environments/rocky-meadow-assets-24708
 Medieval Fortification - https://assetstore.unity.com/packages/3d/environments/historic/medieval-fortification-83555
+Medieval Structure Kit - https://assetstore.unity.com/packages/3d/environments/fantasy/free-medieval-structure-kit-141700
+Medieval_house_lite - https://assetstore.unity.com/packages/3d/environments/fantasy/medieval-house-modular-lite-189718
 medievalTentBig - https://assetstore.unity.com/packages/3d/environments/historic/medieval-tent-big-19023
 Modular Castle - https://assetstore.unity.com/packages/3d/environments/dungeons/modular-castle-121360
 Old Water Well - https://assetstore.unity.com/packages/3d/environments/old-water-well-138903
