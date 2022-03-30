@@ -10,6 +10,7 @@ Hand-Painted Fountain - https://assetstore.unity.com/packages/3d/environments/fa
 meadow_assets - https://assetstore.unity.com/packages/3d/environments/rocky-meadow-assets-24708
 Medieval Fortification - https://assetstore.unity.com/packages/3d/environments/historic/medieval-fortification-83555
 medievalTentBig - https://assetstore.unity.com/packages/3d/environments/historic/medieval-tent-big-19023
+Modular Castle - https://assetstore.unity.com/packages/3d/environments/dungeons/modular-castle-121360
 Old Water Well - https://assetstore.unity.com/packages/3d/environments/old-water-well-138903
 Pipe constructor - https://assetstore.unity.com/packages/3d/environments/industrial/pipe-constructor-186974
 UF Creator LITE - https://assetstore.unity.com/packages/3d/environments/fantasy/ultimate-fantasy-creator-lite-45579
