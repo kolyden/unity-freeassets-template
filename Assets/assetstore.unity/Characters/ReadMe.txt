@@ -1,6 +1,7 @@
 amusedART - https://assetstore.unity.com/packages/3d/characters/stone-monster-101433
 Animated low poly spider - https://assetstore.unity.com/packages/3d/characters/animals/insects/animated-low-poly-spider-125114
 Barbarian - https://assetstore.unity.com/packages/3d/characters/humanoids/barbarian-warrior-75519
+Cartoon Heroes - https://assetstore.unity.com/packages/3d/characters/medieval-cartoon-warriors-90079
 CrabMonster - https://assetstore.unity.com/packages/3d/characters/insectoid-crab-monster-lurker-of-the-shores-20-animations-107223
 Creature_Monsters_X - https://assetstore.unity.com/packages/3d/characters/creatures/character-monsters-x-89243
 Creatures Titan - https://assetstore.unity.com/packages/3d/characters/creatures/creature-titan-79302
