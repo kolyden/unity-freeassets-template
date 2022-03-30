@@ -1,3 +1,4 @@
+Altar_Ruins_FREE - https://assetstore.unity.com/packages/3d/environments/fantasy/altar-ruins-free-109065
 Cart - https://assetstore.unity.com/packages/3d/environments/fantasy/wooden-cart-65835
 cemetery halloween set - https://assetstore.unity.com/packages/3d/environments/fantasy/halloween-cemetery-set-19125
 Cemetery Kit V1.25 - https://assetstore.unity.com/packages/3d/environments/dungeons/cathedral-and-cemetery-kit-29240
