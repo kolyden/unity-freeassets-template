@@ -22,6 +22,7 @@ KBH Toon Skeleton - https://assetstore.unity.com/packages/3d/characters/kbh-toon
 LowPoly Fantasy Monsters Pack - https://assetstore.unity.com/packages/3d/characters/creatures/lowpoly-fantasy-monsters-pack-ver1-0-demo-98393
 Mech - https://assetstore.unity.com/packages/3d/characters/robots/the-assault-mech-90395
 Mini Legion Rock Golem PBR HP Polyart - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-rock-golem-pbr-hp-polyart-94707
+Orc_Demo - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-orcs-demo-101359
 PBRVelociraptor - https://assetstore.unity.com/packages/3d/characters/animals/free-pbr-velociraptors-165201
 Polygonal Metalon - https://assetstore.unity.com/packages/3d/characters/creatures/meshtint-free-polygonal-metalon-151383
 SciFiWarriorPBRHPPolyart - https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154
