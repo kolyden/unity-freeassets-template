@@ -6,11 +6,13 @@ Cemetery Kit V1.25 - https://assetstore.unity.com/packages/3d/environments/dunge
 ColonialShip - https://assetstore.unity.com/packages/3d/environments/historic/colonial-ship-70472
 Crypt Dungeon Environment - https://assetstore.unity.com/packages/3d/environments/dungeons/crypt-dungeon-environment-138277
 Crystal_Mine - https://assetstore.unity.com/packages/3d/characters/purple-crystal-mine-113576
+Deep Tunnel Set - https://assetstore.unity.com/packages/3d/environments/deep-tunnel-set-196889
 Desert_Fortification - https://assetstore.unity.com/packages/3d/environments/urban/desert-fortification-109335
 DungeonTraps - https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-traps-50655
 FantasyCastleDemo - https://assetstore.unity.com/packages/3d/environments/modular-fantasy-castle-pack-demo-189505
 Granite Rocks - https://assetstore.unity.com/packages/3d/environments/landscapes/rock-pack-210536
 Hand-Painted Fountain - https://assetstore.unity.com/packages/3d/environments/fantasy/hand-painted-fountain-41694
+low poly medieval buildings - https://assetstore.unity.com/packages/3d/environments/historic/lowpoly-medieval-buildings-58289
 meadow_assets - https://assetstore.unity.com/packages/3d/environments/rocky-meadow-assets-24708
 Medieval Fortification - https://assetstore.unity.com/packages/3d/environments/historic/medieval-fortification-83555
 Medieval Structure Kit - https://assetstore.unity.com/packages/3d/environments/fantasy/free-medieval-structure-kit-141700
