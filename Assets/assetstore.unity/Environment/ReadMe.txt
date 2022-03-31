@@ -21,5 +21,6 @@ Old Sea Port - https://assetstore.unity.com/packages/3d/environments/old-sea-por
 Old Water Well - https://assetstore.unity.com/packages/3d/environments/old-water-well-138903
 Pipe constructor - https://assetstore.unity.com/packages/3d/environments/industrial/pipe-constructor-186974
 Red Dungeon - https://assetstore.unity.com/packages/3d/environments/dungeons/the-red-prison-40198
+Small Cave Kit - https://assetstore.unity.com/packages/3d/small-cave-kit-49372
 Stone Fountain - https://assetstore.unity.com/packages/3d/fountain-prop-75912
 UF Creator LITE - https://assetstore.unity.com/packages/3d/environments/fantasy/ultimate-fantasy-creator-lite-45579
