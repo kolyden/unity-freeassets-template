@@ -18,6 +18,7 @@ meadow_assets - https://assetstore.unity.com/packages/3d/environments/rocky-mead
 Medieval Fortification - https://assetstore.unity.com/packages/3d/environments/historic/medieval-fortification-83555
 Medieval Structure Kit - https://assetstore.unity.com/packages/3d/environments/fantasy/free-medieval-structure-kit-141700
 Medieval_house_lite - https://assetstore.unity.com/packages/3d/environments/fantasy/medieval-house-modular-lite-189718
+MedievalTavernPack - https://assetstore.unity.com/packages/3d/props/furniture/medieval-tavern-pack-112546
 medievalTentBig - https://assetstore.unity.com/packages/3d/environments/historic/medieval-tent-big-19023
 Modular Castle - https://assetstore.unity.com/packages/3d/environments/dungeons/modular-castle-121360
 Modular Fantasy Bridges - https://assetstore.unity.com/packages/3d/environments/fantasy/modular-fantasy-bridges-99940
