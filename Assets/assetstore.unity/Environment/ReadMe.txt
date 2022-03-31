@@ -12,6 +12,7 @@ DungeonTraps - https://assetstore.unity.com/packages/3d/environments/dungeons/du
 FantasyCastleDemo - https://assetstore.unity.com/packages/3d/environments/modular-fantasy-castle-pack-demo-189505
 Granite Rocks - https://assetstore.unity.com/packages/3d/environments/landscapes/rock-pack-210536
 Hand-Painted Fountain - https://assetstore.unity.com/packages/3d/environments/fantasy/hand-painted-fountain-41694
+L_FG_Assets_Pack_Lite - https://assetstore.unity.com/packages/3d/environments/fantasy/make-your-fantasy-game-lite-8312
 low poly medieval buildings - https://assetstore.unity.com/packages/3d/environments/historic/lowpoly-medieval-buildings-58289
 meadow_assets - https://assetstore.unity.com/packages/3d/environments/rocky-meadow-assets-24708
 Medieval Fortification - https://assetstore.unity.com/packages/3d/environments/historic/medieval-fortification-83555
