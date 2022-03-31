@@ -17,6 +17,7 @@ Medieval Structure Kit - https://assetstore.unity.com/packages/3d/environments/f
 Medieval_house_lite - https://assetstore.unity.com/packages/3d/environments/fantasy/medieval-house-modular-lite-189718
 medievalTentBig - https://assetstore.unity.com/packages/3d/environments/historic/medieval-tent-big-19023
 Modular Castle - https://assetstore.unity.com/packages/3d/environments/dungeons/modular-castle-121360
+Modular Fantasy Bridges - https://assetstore.unity.com/packages/3d/environments/fantasy/modular-fantasy-bridges-99940
 Old Sea Port - https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897
 Old Water Well - https://assetstore.unity.com/packages/3d/environments/old-water-well-138903
 Pipe constructor - https://assetstore.unity.com/packages/3d/environments/industrial/pipe-constructor-186974
