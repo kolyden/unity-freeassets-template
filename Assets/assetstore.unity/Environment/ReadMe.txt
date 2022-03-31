@@ -27,5 +27,6 @@ Red Dungeon - https://assetstore.unity.com/packages/3d/environments/dungeons/the
 Room - https://assetstore.unity.com/packages/3d/environments/free-medieval-room-131004
 Small Cave Kit - https://assetstore.unity.com/packages/3d/small-cave-kit-49372
 Stone Fountain - https://assetstore.unity.com/packages/3d/fountain-prop-75912
+Town Creator Kit LITE - https://assetstore.unity.com/packages/3d/environments/fantasy/town-creator-kit-lite-25574
 UF Creator LITE - https://assetstore.unity.com/packages/3d/environments/fantasy/ultimate-fantasy-creator-lite-45579
 wood bridge - https://assetstore.unity.com/packages/3d/props/exterior/modular-wooden-bridge-tiles-29501
